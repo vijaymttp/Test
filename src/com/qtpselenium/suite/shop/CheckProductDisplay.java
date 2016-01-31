@@ -23,7 +23,9 @@ public class CheckProductDisplay extends TestSuiteBase{
 	static boolean fail=false;
 	static boolean skip=false;
 	static boolean isTestPass=true;
-	// Runmode of test case in a suite
+	// Runmode of test case in a suite.
+	
+	//appp
 	@BeforeTest
 	public void checkTestSkip(){
 		
