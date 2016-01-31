@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Satyas-MacBook-Pro.local" name="com.qtpselenium.suite.shop.RandomSelection" tests="1" failures="0" timestamp="31 Jan 2016 15:05:27 GMT" time="0.001" errors="0">
+  <testcase name="@BeforeSuite checkSuiteSkip" time="0.0" classname="com.qtpselenium.suite.shop.RandomSelection">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at com.qtpselenium.util.Xls_Reader.getRowCount(Xls_Reader.java:46)
+	at com.qtpselenium.util.TestUtil.isSuiteRunnable(TestUtil.java:10)
+	at com.qtpselenium.suite.shop.TestSuiteBase.checkSuiteSkip(TestSuiteBase.java:15)
+... Removed 18 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@BeforeTest checkTestSkip" time="0.0" classname="com.qtpselenium.suite.shop.RandomSelection">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterMethod reportDataSetResult" time="0.0" classname="com.qtpselenium.suite.shop.RandomSelection">
+    <skipped/>
+  </testcase>
+  <testcase name="@AfterTest reportTestResult" time="0.0" classname="com.qtpselenium.suite.shop.RandomSelection">
+    <skipped/>
+  </testcase>
+  <testcase name="testSelection" time="0.0" classname="com.qtpselenium.suite.shop.RandomSelection">
+    <skipped/>
+  </testcase>
+</testsuite>

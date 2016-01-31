@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Satyas-MacBook-Pro.local" name="com.qtpselenium.suite.productdisplay.TestCase_C1" tests="4" failures="0" timestamp="31 Jan 2016 15:05:28 GMT" time="0.117" errors="0">
+  <testcase name="@BeforeTest checkTestSkip" time="0.0" classname="com.qtpselenium.suite.productdisplay.TestCase_C1">
+    <skipped/>
+  </testcase>
+  <testcase name="testcaseC1" time="0.001" classname="com.qtpselenium.suite.productdisplay.TestCase_C1">
+    <skipped/>
+  </testcase>
+  <testcase name="testcaseC1" time="0.0" classname="com.qtpselenium.suite.productdisplay.TestCase_C1">
+    <skipped/>
+  </testcase>
+  <testcase name="testcaseC1" time="0.0" classname="com.qtpselenium.suite.productdisplay.TestCase_C1">
+    <skipped/>
+  </testcase>
+  <testcase name="testcaseC1" time="0.0" classname="com.qtpselenium.suite.productdisplay.TestCase_C1">
+    <skipped/>
+  </testcase>
+</testsuite>

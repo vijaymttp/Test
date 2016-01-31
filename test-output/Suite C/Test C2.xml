@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Satyas-MacBook-Pro.local" name="com.qtpselenium.suite.productdisplay.TestCase_C2" tests="1" failures="0" timestamp="31 Jan 2016 15:05:28 GMT" time="0.001" errors="0">
+  <testcase name="@BeforeSuite checkSuiteSkip" time="0.0" classname="com.qtpselenium.suite.productdisplay.TestCase_C2">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at com.qtpselenium.util.Xls_Reader.getRowCount(Xls_Reader.java:46)
+	at com.qtpselenium.util.TestUtil.isSuiteRunnable(TestUtil.java:10)
+	at com.qtpselenium.suite.productdisplay.TestSuiteBase.checkSuiteSkip(TestSuiteBase.java:16)
+... Removed 18 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@BeforeTest checkTestSkip" time="0.0" classname="com.qtpselenium.suite.productdisplay.TestCase_C2">
+    <skipped/>
+  </testcase>
+  <testcase name="testcaseC2" time="0.001" classname="com.qtpselenium.suite.productdisplay.TestCase_C2">
+    <skipped/>
+  </testcase>
+</testsuite>

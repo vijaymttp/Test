@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Satyas-MacBook-Pro.local" name="com.qtpselenium.suite.shop.NewTest" tests="1" failures="0" timestamp="31 Jan 2016 16:03:25 GMT" time="0.019" errors="0">
+  <testcase name="f" time="0.011" classname="com.qtpselenium.suite.shop.NewTest"/>
+</testsuite>
